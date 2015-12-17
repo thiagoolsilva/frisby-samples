@@ -8,7 +8,9 @@ Configuring:
 
 Running the tests:
 
-1. jasmine-node --matchall [folder of file]
+1. node app.js
+2. jasmine-node --matchall [folder of file]
+
 
 For more information about frisby go to http://frisbyjs.com
 
